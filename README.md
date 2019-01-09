@@ -1,4 +1,4 @@
-# sandbox
+# Sandbox
 A repo for testing different bioinformatics analyses.
 
 -----
